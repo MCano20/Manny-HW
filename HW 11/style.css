@@ -1,0 +1,21 @@
+
+.ct{
+    color: red;
+    text-decoration: underline;
+    transition: 1s;
+}
+
+h2{
+    color: crimson;
+    text-shadow: 3px 2px black;
+}
+
+.ct:hover {
+    color: blue;
+}
+
+.p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: yellow;
+    font-size: 7rem;
+}
